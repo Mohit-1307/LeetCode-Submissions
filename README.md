@@ -78,7 +78,7 @@ Commit appears automatically — no manual push needed
 
 ## Author
 
-**Mohit Singh Rajput** — AI / ML Engineer
+**MOHIT SINGH RAJPUT** — AI / ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitsingh1307)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohit-1307)
@@ -88,5 +88,7 @@ Commit appears automatically — no manual push needed
 ---
 
 <div align="center">
-<sub>If this helped you, a ⭐ on the repo is appreciated.</sub>
+
+*If this project was useful, a ⭐ on the repository is appreciated.*
+
 </div>
