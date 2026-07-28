@@ -88,7 +88,7 @@ Commit appears automatically — no manual push needed
 
 ---
 
-<div align="center">
+
 
 *If this project was useful, a ⭐ on the repository is appreciated.*
 
