@@ -104,6 +104,7 @@ Commit appears automatically — no manual push needed
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
+| [0878-nth-magical-number](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0878-nth-magical-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,4 +117,8 @@ Commit appears automatically — no manual push needed
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
+## Binary Search
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0878-nth-magical-number) |
 <!---LeetCode Topics End-->
