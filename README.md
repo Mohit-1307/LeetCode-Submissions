@@ -121,4 +121,8 @@ Commit appears automatically — no manual push needed
 |  |
 | ------- |
 | [0878-nth-magical-number](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0878-nth-magical-number) |
+## String
+|  |
+| ------- |
+| [1507-reformat-date](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1507-reformat-date) |
 <!---LeetCode Topics End-->
