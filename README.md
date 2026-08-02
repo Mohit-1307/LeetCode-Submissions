@@ -118,4 +118,8 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
+## Database
+|  |
+| ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
