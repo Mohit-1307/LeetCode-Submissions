@@ -122,4 +122,12 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1517-find-users-with-valid-e-mails](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1517-find-users-with-valid-e-mails) |
+## Union-Find
+|  |
+| ------- |
+| [2076-process-restricted-friend-requests](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2076-process-restricted-friend-requests) |
+## Graph Theory
+|  |
+| ------- |
+| [2076-process-restricted-friend-requests](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2076-process-restricted-friend-requests) |
 <!---LeetCode Topics End-->
