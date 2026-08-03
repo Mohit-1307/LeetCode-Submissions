@@ -106,18 +106,22 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 ## Math
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 ## Database
 |  |
 | ------- |
