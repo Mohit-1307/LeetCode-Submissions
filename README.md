@@ -139,6 +139,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [2076-process-restricted-friend-requests](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2076-process-restricted-friend-requests) |
+| [3310-remove-methods-from-project](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
 ## String
 |  |
 | ------- |
@@ -158,4 +159,12 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
