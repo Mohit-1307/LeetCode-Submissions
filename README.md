@@ -109,6 +109,7 @@ Git commit is created with the latest solution
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3731-find-missing-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -150,6 +151,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -167,4 +169,12 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
+## Binary Search
+|  |
+| ------- |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 <!---LeetCode Topics End-->
