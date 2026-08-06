@@ -107,6 +107,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
+| [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
@@ -122,6 +123,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0688-knight-probability-in-chessboard](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0688-knight-probability-in-chessboard) |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1987-number-of-unique-good-subsequences) |
 ## Game Theory
@@ -146,6 +148,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
+| [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1987-number-of-unique-good-subsequences) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -187,4 +190,16 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
+## Bitmask
+|  |
+| ------- |
+| [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
 <!---LeetCode Topics End-->
