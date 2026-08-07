@@ -117,6 +117,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [1175-prime-arrangements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1175-prime-arrangements) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -223,4 +224,16 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
