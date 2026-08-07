@@ -171,10 +171,12 @@ Git commit is created with the latest solution
 ## Depth-First Search
 |  |
 | ------- |
+| [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [3310-remove-methods-from-project](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [3310-remove-methods-from-project](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Binary Search
 |  |
@@ -236,4 +238,12 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1175-prime-arrangements) |
+## Tree
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
