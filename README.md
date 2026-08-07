@@ -120,6 +120,7 @@ Git commit is created with the latest solution
 | [1175-prime-arrangements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1175-prime-arrangements) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Git commit is created with the latest solution
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1987-number-of-unique-good-subsequences) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
 | ------- |
@@ -190,6 +192,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -246,4 +249,12 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
