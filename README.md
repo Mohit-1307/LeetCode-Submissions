@@ -111,6 +111,7 @@ Git commit is created with the latest solution
 | [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3731-find-missing-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -263,5 +264,6 @@ Git commit is created with the latest solution
 ## Two Pointers
 |  |
 | ------- |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
