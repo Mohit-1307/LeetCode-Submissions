@@ -109,6 +109,7 @@ Git commit is created with the latest solution
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
 | [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
+| [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
@@ -119,6 +120,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1175-prime-arrangements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1175-prime-arrangements) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -129,6 +131,7 @@ Git commit is created with the latest solution
 | [0688-knight-probability-in-chessboard](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0688-knight-probability-in-chessboard) |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
+| [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1987-number-of-unique-good-subsequences) |
@@ -137,6 +140,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 ## Database
 |  |
@@ -269,4 +273,16 @@ Git commit is created with the latest solution
 | ------- |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
