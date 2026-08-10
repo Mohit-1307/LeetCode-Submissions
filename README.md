@@ -124,6 +124,7 @@ Git commit is created with the latest solution
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1175-prime-arrangements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1175-prime-arrangements) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -135,6 +136,7 @@ Git commit is created with the latest solution
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1987-number-of-unique-good-subsequences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3615-longest-palindromic-path-in-graph) |
@@ -144,6 +146,7 @@ Git commit is created with the latest solution
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 ## Database
 |  |
 | ------- |
@@ -283,6 +286,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -291,4 +295,13 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
