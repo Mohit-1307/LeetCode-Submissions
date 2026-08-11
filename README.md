@@ -117,6 +117,7 @@ Git commit is created with the latest solution
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2784-check-if-array-is-good](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3731-find-missing-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -184,6 +185,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
 | [2784-check-if-array-is-good](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -191,6 +193,7 @@ Git commit is created with the latest solution
 | [0658-find-k-closest-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [1340-jump-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1340-jump-game-v) |
 | [2784-check-if-array-is-good](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
