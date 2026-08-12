@@ -177,6 +177,7 @@ Git commit is created with the latest solution
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1987-number-of-unique-good-subsequences) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3615-longest-palindromic-path-in-graph) |
@@ -335,4 +336,8 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
+## Simulation
+|  |
+| ------- |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 <!---LeetCode Topics End-->
