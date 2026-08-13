@@ -189,6 +189,7 @@ Git commit is created with the latest solution
 ## Hash Table
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0460-lfu-cache) |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
 | [2784-check-if-array-is-good](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -255,6 +256,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
+| [0460-lfu-cache](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0460-lfu-cache) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -340,4 +342,12 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+## Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
