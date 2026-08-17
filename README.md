@@ -130,6 +130,7 @@ Git commit is created with the latest solution
 ## Math
 |  |
 | ------- |
+| [0372-super-pow](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0372-super-pow) |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1175-prime-arrangements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1175-prime-arrangements) |
@@ -274,6 +275,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
+| [0372-super-pow](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0372-super-pow) |
 ## Design
 |  |
 | ------- |
@@ -403,4 +405,12 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
