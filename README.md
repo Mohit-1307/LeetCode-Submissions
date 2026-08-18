@@ -131,6 +131,7 @@ Git commit is created with the latest solution
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0319-bulb-switcher) |
 | [0372-super-pow](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0372-super-pow) |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
@@ -418,4 +419,8 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0372-super-pow) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
