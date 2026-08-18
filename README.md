@@ -110,6 +110,7 @@ Git commit is created with the latest solution
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
 | [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -134,6 +135,7 @@ Git commit is created with the latest solution
 | [0319-bulb-switcher](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0319-bulb-switcher) |
 | [0372-super-pow](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0372-super-pow) |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1175-prime-arrangements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1175-prime-arrangements) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
@@ -176,6 +178,7 @@ Git commit is created with the latest solution
 ## Union-Find
 |  |
 | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0952-largest-component-size-by-common-factor) |
 | [2076-process-restricted-friend-requests](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2076-process-restricted-friend-requests) |
 ## Graph Theory
 |  |
@@ -212,6 +215,7 @@ Git commit is created with the latest solution
 | [0460-lfu-cache](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0460-lfu-cache) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [2784-check-if-array-is-good](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2784-check-if-array-is-good) |
@@ -328,6 +332,7 @@ Git commit is created with the latest solution
 ## Number Theory
 |  |
 | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0952-largest-component-size-by-common-factor) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -423,4 +428,8 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0319-bulb-switcher) |
+## Prime Factorization
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
