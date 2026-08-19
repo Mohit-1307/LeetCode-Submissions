@@ -115,6 +115,7 @@ Git commit is created with the latest solution
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1340-jump-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1340-jump-game-v) |
+| [1386-cinema-seat-allocation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1563-stone-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1563-stone-game-v) |
@@ -217,6 +218,7 @@ Git commit is created with the latest solution
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1386-cinema-seat-allocation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [2784-check-if-array-is-good](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -257,6 +259,7 @@ Git commit is created with the latest solution
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -269,6 +272,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
+| [1386-cinema-seat-allocation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bitmask
