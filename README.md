@@ -200,6 +200,7 @@ Git commit is created with the latest solution
 | [1987-number-of-unique-good-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1987-number-of-unique-good-subsequences) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2296-design-a-text-editor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2296-design-a-text-editor) |
+| [2437-number-of-valid-clock-times](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2437-number-of-valid-clock-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -270,6 +271,7 @@ Git commit is created with the latest solution
 ## Enumeration
 |  |
 | ------- |
+| [2437-number-of-valid-clock-times](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2437-number-of-valid-clock-times) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
