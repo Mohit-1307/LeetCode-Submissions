@@ -120,6 +120,7 @@ Git commit is created with the latest solution
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1563-stone-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1563-stone-game-v) |
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2029-stone-game-ix](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -223,6 +224,7 @@ Git commit is created with the latest solution
 | [0952-largest-component-size-by-common-factor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1386-cinema-seat-allocation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [2784-check-if-array-is-good](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -257,6 +259,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Monotonic Stack
 |  |
@@ -365,6 +368,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -384,6 +388,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
