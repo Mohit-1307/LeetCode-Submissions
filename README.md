@@ -126,6 +126,7 @@ Git commit is created with the latest solution
 | [2784-check-if-array-is-good](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -393,6 +394,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [2296-design-a-text-editor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2296-design-a-text-editor) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Linked List
 |  |
