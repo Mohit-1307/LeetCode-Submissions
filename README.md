@@ -185,11 +185,13 @@ Git commit is created with the latest solution
 ## Union-Find
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0886-possible-bipartition) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0952-largest-component-size-by-common-factor) |
 | [2076-process-restricted-friend-requests](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2076-process-restricted-friend-requests) |
 ## Graph Theory
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0886-possible-bipartition) |
 | [2076-process-restricted-friend-requests](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2076-process-restricted-friend-requests) |
 | [3310-remove-methods-from-project](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3615-longest-palindromic-path-in-graph) |
@@ -247,6 +249,7 @@ Git commit is created with the latest solution
 ## Depth-First Search
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0886-possible-bipartition) |
 | [0968-binary-tree-cameras](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0968-binary-tree-cameras) |
 | [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -254,6 +257,7 @@ Git commit is created with the latest solution
 ## Breadth-First Search
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0886-possible-bipartition) |
 | [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [3310-remove-methods-from-project](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Binary Search
@@ -464,4 +468,12 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0886-possible-bipartition) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
