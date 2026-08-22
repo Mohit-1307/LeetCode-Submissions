@@ -255,6 +255,7 @@ Git commit is created with the latest solution
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0886-possible-bipartition](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0886-possible-bipartition) |
 | [0968-binary-tree-cameras](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0968-binary-tree-cameras) |
 | [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
@@ -263,6 +264,7 @@ Git commit is created with the latest solution
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0886-possible-bipartition](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0886-possible-bipartition) |
 | [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [3310-remove-methods-from-project](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
@@ -348,12 +350,14 @@ Git commit is created with the latest solution
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0968-binary-tree-cameras](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0968-binary-tree-cameras) |
 | [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0968-binary-tree-cameras](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0968-binary-tree-cameras) |
 | [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
