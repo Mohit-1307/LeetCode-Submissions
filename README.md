@@ -107,6 +107,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0658-find-k-closest-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
@@ -204,6 +205,7 @@ Git commit is created with the latest solution
 ## String
 |  |
 | ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0830-positions-of-large-groups](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0830-positions-of-large-groups) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
@@ -231,6 +233,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0460-lfu-cache) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0952-largest-component-size-by-common-factor) |
