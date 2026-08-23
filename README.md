@@ -148,6 +148,7 @@ Git commit is created with the latest solution
 | [1510-stone-game-iv](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1563-stone-game-v) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+| [1927-sum-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -180,6 +181,7 @@ Git commit is created with the latest solution
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 ## Database
 |  |
@@ -208,6 +210,7 @@ Git commit is created with the latest solution
 | [1416-restore-the-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1416-restore-the-array) |
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
+| [1927-sum-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1927-sum-game) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1987-number-of-unique-good-subsequences) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2296-design-a-text-editor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2296-design-a-text-editor) |
@@ -284,6 +287,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
