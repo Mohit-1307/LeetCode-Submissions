@@ -107,6 +107,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
+| [0526-beautiful-arrangement](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0658-find-k-closest-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
@@ -161,6 +162,7 @@ Git commit is created with the latest solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0688-knight-probability-in-chessboard](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0688-knight-probability-in-chessboard) |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
@@ -310,6 +312,7 @@ Git commit is created with the latest solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
 | [1386-cinema-seat-allocation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -319,6 +322,7 @@ Git commit is created with the latest solution
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3615-longest-palindromic-path-in-graph) |
 ## Hamiltonian Path
@@ -377,6 +381,7 @@ Git commit is created with the latest solution
 ## Backtracking
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
