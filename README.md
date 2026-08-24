@@ -339,6 +339,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0460-lfu-cache](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0460-lfu-cache) |
+| [1603-design-parking-system](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1603-design-parking-system) |
 | [2296-design-a-text-editor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2296-design-a-text-editor) |
 ## Binary Indexed Tree
 |  |
@@ -443,6 +444,7 @@ Git commit is created with the latest solution
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1603-design-parking-system) |
 | [2296-design-a-text-editor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2296-design-a-text-editor) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -475,6 +477,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1603-design-parking-system](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1603-design-parking-system) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [2029-stone-game-ix](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 ## Fermat's Little Theorem
