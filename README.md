@@ -107,6 +107,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0526-beautiful-arrangement](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0658-find-k-closest-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
@@ -446,6 +447,7 @@ Git commit is created with the latest solution
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [1603-design-parking-system](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1603-design-parking-system) |
 | [2296-design-a-text-editor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2296-design-a-text-editor) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -469,6 +471,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 ## Combinatorics
 |  |
