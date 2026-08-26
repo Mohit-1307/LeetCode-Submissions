@@ -111,6 +111,7 @@ Git commit is created with the latest solution
 | [0526-beautiful-arrangement](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0658-find-k-closest-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
+| [0806-number-of-lines-to-write-string](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0806-number-of-lines-to-write-string) |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
 | [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
@@ -215,6 +216,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0806-number-of-lines-to-write-string](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0806-number-of-lines-to-write-string) |
 | [0830-positions-of-large-groups](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0830-positions-of-large-groups) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
