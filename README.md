@@ -124,6 +124,7 @@ Git commit is created with the latest solution
 | [1386-cinema-seat-allocation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1499-max-value-of-equation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1499-max-value-of-equation) |
 | [1563-stone-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1563-stone-game-v) |
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -441,6 +442,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
+| [1499-max-value-of-equation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1499-max-value-of-equation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -449,6 +451,7 @@ Git commit is created with the latest solution
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0658-find-k-closest-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
+| [1499-max-value-of-equation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1499-max-value-of-equation) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -539,4 +542,12 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1122-relative-sort-array) |
+## Queue
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1499-max-value-of-equation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1499-max-value-of-equation) |
 <!---LeetCode Topics End-->
