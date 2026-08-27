@@ -235,6 +235,7 @@ Git commit is created with the latest solution
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3615-longest-palindromic-path-in-graph) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -260,6 +261,7 @@ Git commit is created with the latest solution
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -310,6 +312,7 @@ Git commit is created with the latest solution
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 ## Enumeration
 |  |
@@ -317,6 +320,7 @@ Git commit is created with the latest solution
 | [0906-super-palindromes](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0906-super-palindromes) |
 | [2437-number-of-valid-clock-times](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2437-number-of-valid-clock-times) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -490,6 +494,7 @@ Git commit is created with the latest solution
 | [1603-design-parking-system](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1603-design-parking-system) |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1830-minimum-number-of-operations-to-make-string-sorted) |
 | [2029-stone-game-ix](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
