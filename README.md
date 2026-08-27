@@ -151,6 +151,7 @@ Git commit is created with the latest solution
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [0906-super-palindromes](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0906-super-palindromes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0952-largest-component-size-by-common-factor) |
+| [1137-n-th-tribonacci-number](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1175-prime-arrangements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1175-prime-arrangements) |
 | [1406-stone-game-iii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
@@ -172,6 +173,7 @@ Git commit is created with the latest solution
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
 | [0968-binary-tree-cameras](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0968-binary-tree-cameras) |
+| [1137-n-th-tribonacci-number](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1340-jump-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1340-jump-game-v) |
@@ -550,4 +552,8 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [1499-max-value-of-equation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1499-max-value-of-equation) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
