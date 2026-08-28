@@ -109,6 +109,7 @@ Git commit is created with the latest solution
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [0526-beautiful-arrangement](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0658-find-k-closest-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0806-number-of-lines-to-write-string) |
@@ -250,6 +251,7 @@ Git commit is created with the latest solution
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0460-lfu-cache) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
@@ -270,6 +272,7 @@ Git commit is created with the latest solution
 ## Sorting
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [1122-relative-sort-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1122-relative-sort-array) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -298,6 +301,7 @@ Git commit is created with the latest solution
 ## Binary Search
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -410,6 +414,7 @@ Git commit is created with the latest solution
 ## Two Pointers
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0658-find-k-closest-elements) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
