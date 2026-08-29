@@ -135,6 +135,7 @@ Git commit is created with the latest solution
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2784-check-if-array-is-good](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2784-check-if-array-is-good) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -210,6 +211,7 @@ Git commit is created with the latest solution
 | [0886-possible-bipartition](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0886-possible-bipartition) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0952-largest-component-size-by-common-factor) |
 | [2076-process-restricted-friend-requests](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2076-process-restricted-friend-requests) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Git commit is created with the latest solution
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1340-jump-game-v](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1340-jump-game-v) |
 | [2784-check-if-array-is-good](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2784-check-if-array-is-good) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
