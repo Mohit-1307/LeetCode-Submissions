@@ -144,6 +144,7 @@ Git commit is created with the latest solution
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
@@ -272,6 +273,7 @@ Git commit is created with the latest solution
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
@@ -305,6 +307,7 @@ Git commit is created with the latest solution
 | [0886-possible-bipartition](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0886-possible-bipartition) |
 | [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [3310-remove-methods-from-project](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -346,6 +349,7 @@ Git commit is created with the latest solution
 | [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
 | [1386-cinema-seat-allocation](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
@@ -507,6 +511,7 @@ Git commit is created with the latest solution
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0498-diagonal-traverse) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
 | ------- |
