@@ -149,6 +149,7 @@ Git commit is created with the latest solution
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Git commit is created with the latest solution
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
