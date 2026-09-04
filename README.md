@@ -151,6 +151,7 @@ Git commit is created with the latest solution
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -449,6 +450,7 @@ Git commit is created with the latest solution
 | [1140-stone-game-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3903-smallest-stable-index-i) |
 ## Zero-Sum Game
 |  |
 | ------- |
