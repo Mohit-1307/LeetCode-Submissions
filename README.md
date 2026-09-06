@@ -180,6 +180,7 @@ Git commit is created with the latest solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0688-knight-probability-in-chessboard](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0688-knight-probability-in-chessboard) |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
@@ -231,6 +232,7 @@ Git commit is created with the latest solution
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0806-number-of-lines-to-write-string) |
 | [0830-positions-of-large-groups](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0830-positions-of-large-groups) |
