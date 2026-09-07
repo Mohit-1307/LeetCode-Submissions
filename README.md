@@ -184,6 +184,7 @@ Git commit is created with the latest solution
 | [0526-beautiful-arrangement](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0526-beautiful-arrangement) |
 | [0688-knight-probability-in-chessboard](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0688-knight-probability-in-chessboard) |
 | [0877-stone-game](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
 | [0968-binary-tree-cameras](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0968-binary-tree-cameras) |
 | [1137-n-th-tribonacci-number](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1137-n-th-tribonacci-number) |
@@ -239,6 +240,7 @@ Git commit is created with the latest solution
 | [0884-uncommon-words-from-two-sentences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0890-find-and-replace-pattern) |
 | [0906-super-palindromes](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0906-super-palindromes) |
+| [0940-distinct-subsequences-ii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0943-find-the-shortest-superstring) |
 | [1416-restore-the-array](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1416-restore-the-array) |
 | [1598-crawler-log-folder](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1598-crawler-log-folder) |
