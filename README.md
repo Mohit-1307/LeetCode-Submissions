@@ -310,6 +310,7 @@ Git commit is created with the latest solution
 | [0968-binary-tree-cameras](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0968-binary-tree-cameras) |
 | [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -418,6 +419,7 @@ Git commit is created with the latest solution
 | [0968-binary-tree-cameras](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0968-binary-tree-cameras) |
 | [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -425,6 +427,7 @@ Git commit is created with the latest solution
 | [0968-binary-tree-cameras](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/0968-binary-tree-cameras) |
 | [1302-deepest-leaves-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1302-deepest-leaves-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/13msrajput/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |
