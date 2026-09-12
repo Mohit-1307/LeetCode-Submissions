@@ -143,6 +143,7 @@ Git commit is created with the latest solution
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -203,6 +204,7 @@ Git commit is created with the latest solution
 | [1872-stone-game-viii](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1987-number-of-unique-good-subsequences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3615-longest-palindromic-path-in-graph) |
 ## Game Theory
 |  |
@@ -302,6 +304,7 @@ Git commit is created with the latest solution
 | [2784-check-if-array-is-good](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 ## Depth-First Search
@@ -332,6 +335,7 @@ Git commit is created with the latest solution
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mohit-1307/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/13msrajput/LeetCode-Submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Monotonic Stack
 |  |
 | ------- |
